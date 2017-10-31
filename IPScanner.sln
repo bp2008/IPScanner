@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPScanner", "IPScanner\IPScanner.csproj", "{5C07071F-125F-419F-94CF-5E20D98A141A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPScannerLib", "IPScannerLib\IPScannerLib.csproj", "{BBA2E4E7-6448-44D5-A141-3E5A8DA1BEDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C07071F-125F-419F-94CF-5E20D98A141A}.Debug|x86.ActiveCfg = Debug|x86
+		{5C07071F-125F-419F-94CF-5E20D98A141A}.Debug|x86.Build.0 = Debug|x86
+		{5C07071F-125F-419F-94CF-5E20D98A141A}.Release|x86.ActiveCfg = Release|x86
+		{5C07071F-125F-419F-94CF-5E20D98A141A}.Release|x86.Build.0 = Release|x86
+		{BBA2E4E7-6448-44D5-A141-3E5A8DA1BEDC}.Debug|x86.ActiveCfg = Debug|x86
+		{BBA2E4E7-6448-44D5-A141-3E5A8DA1BEDC}.Debug|x86.Build.0 = Debug|x86
+		{BBA2E4E7-6448-44D5-A141-3E5A8DA1BEDC}.Release|x86.ActiveCfg = Release|x86
+		{BBA2E4E7-6448-44D5-A141-3E5A8DA1BEDC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
